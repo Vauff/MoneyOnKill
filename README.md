@@ -1,0 +1,2 @@
+# MoneyOnKill
+MoneyOnKill is a Bukkit plugin originally made as a paid job that gives people configurable money when killing somebody. I made this plugin a long time ago but decided to put it up on here.

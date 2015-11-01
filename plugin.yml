@@ -1,0 +1,5 @@
+name: MoneyOnKill
+main: me.tehkitti.MoneyOnKill.Main
+version: 1.0.0
+author: TehKitti
+depend: [Vault]
